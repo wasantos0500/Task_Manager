@@ -1,0 +1,24 @@
+Total users: 3
+Total tasks: 10
+
+User: admin
+ Tasks assigned: 3
+ Percentage of total tasks: 30.00%
+ Completed tasks percentage: 33.33%
+ Uncompleted tasks percentage: 66.67%
+ Overdue tasks percentage: 33.33%
+
+User: Luis
+ Tasks assigned: 4
+ Percentage of total tasks: 40.00%
+ Completed tasks percentage: 0.00%
+ Uncompleted tasks percentage: 100.00%
+ Overdue tasks percentage: 25.00%
+
+User: karmen
+ Tasks assigned: 3
+ Percentage of total tasks: 30.00%
+ Completed tasks percentage: 33.33%
+ Uncompleted tasks percentage: 66.67%
+ Overdue tasks percentage: 0.00%
+

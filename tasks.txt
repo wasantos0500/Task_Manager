@@ -1,0 +1,11 @@
+Luis, Course, attend course, 13 Jul 2026, 15 Jul 2026, No
+karmen, Tests, Create Unit tests, 13 Jul 2026, 20 Jul 2026, No
+admin, Presentation, Run presentation and commit, 13 Jul 2026, 22 Jul 2026, Yes
+Luis, Food, Prepare all the food for the team, 13 Jul 2026, 26 Jul 2026, No
+karmen, New Task, task to edit later, 13 Jul 2026, 26 Jul 2026, Yes
+admin, Fix bugs, run the program and fix all bugs, 13 Jul 2026, 11 Jul 2026, No
+Luis, Run program, run test program to check modules, 13 Jul 2026, 10 Jul 2026, Yes
+karmen, Delete, delete completed tasks, 13 Jul 2026, 18 Jul 2026, No
+Luis, final test, final test to add task, 13 Jul 2026, 18 Jul 2026, No
+admin, format PEP Style, Format everything according to PEP8 Style, 13 Jul 2026, 20 Jul 2026, No
+karmen, Final task, final task to test, 13 Jul 2026, 20 Jul 2026, No

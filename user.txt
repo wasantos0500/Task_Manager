@@ -1,0 +1,3 @@
+admin, adm1n
+Luis, user1234
+karmen, tiramisu
